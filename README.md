@@ -1,18 +1,26 @@
-# learn_js
+# JavaScript
 
-A collection of mini projects to practice JavaScript, backend development, and browser debugging.
+Learning JavaScript through mini projects using Node.js and the Linux CLI.
 
-## Contents
+## Roadmap
 
-| Directory | Description |
-|---|---|
-| [backend](./backend) | Node.js, APIs, databases, and server-side development |
-| [devtools](./devtools) | Browser JavaScript, debugging, and performance analysis |
+| # | Project | Topics | Status |
+|---|---|---|---|
+| 01 | [CLI Calculator](./cli-calculator) | Node.js, arguments, validation, functions | In progress |
+| 02 | File Manager | fs, path, async/await | Not started |
+| 03 | HTTP Server | HTTP, requests, responses | Not started |
+| 04 | JSON Data Manager | JSON, file operations | Not started |
+| 05 | Notes CLI | Modules, file storage | Not started |
+| 06 | Todo REST API | Express.js, CRUD | Not started |
 
 ## Progress
 
-| Category | Completed | Total |
-|---|---|---|
-| Backend | 0 | 17 |
-| DevTools | 0 | 15 |
-| **Total** | **0** | **32** |
+0 / 6 projects completed
+
+## Learning Rules
+
+- Use Linux CLI for development.
+- Learn concepts before implementation.
+- Build projects independently.
+- Test and debug before completion.
+- Refactor code after implementation.
