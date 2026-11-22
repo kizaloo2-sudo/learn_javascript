@@ -54,4 +54,4 @@ In progress
 
 ## Next Project
 
-File Manager — Node.js `fs`, `path`, and asynchronous file operations.
+File Manager - Node.js `fs`, `path`, and asynchronous file operations.
